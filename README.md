@@ -9,8 +9,8 @@ Here are some ideas to get started:
 - 🦾 Robotics  
 - 🖥️ Computing  
 - 🔭 Science  
-- 💬 Ask me about D&D and Nerd's Things
 - 🎮 Video Game
+- 💬 Ask me about D&D and Nerd's Things
 - ⚡ Fun fact: I'm staing old
 
 <!-- GITHUB Stats | Mostra as tabelas com o resumo da conta -->
