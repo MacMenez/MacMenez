@@ -1,4 +1,4 @@
-### Hello Wold! May The Force Be With You.
+### Hello World! May The Force Be With You.
 
 <!--
 **MacMenez/MacMenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
