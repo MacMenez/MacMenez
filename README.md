@@ -31,7 +31,7 @@ Here are some ideas to get started:
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   
   <!-- GIF -->
-  <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="AvatarLoFi.png">
 </div>
 
 ##
