@@ -46,4 +46,4 @@ Here are some ideas to get started:
 </div>
   
 <!-- ANIMAÇÃO DO PAINEL DE UPDATES-->
- ![Snake animation](https://github.com/MacMenez/MacMenez/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MacMenez/MacMenez/blob/output/github-contribution-grid-snake.svg)
