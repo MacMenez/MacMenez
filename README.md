@@ -82,8 +82,10 @@ Here are some ideas to get started:
 </div>
   
 <!-- ANIMAÇÃO DO PAINEL DE UPDATES -->
+<!-- https://github.com/marketplace/actions/snake-game-generator-from-github-contributions -->
 ![Snake animation](https://github.com/MacMenez/MacMenez/blob/output/github-contribution-grid-snake.svg)
 
+<!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid?version=v3.0.0 -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
