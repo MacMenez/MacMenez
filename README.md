@@ -83,22 +83,25 @@ Here are some ideas to get started:
   
 <!-- ANIMAÇÃO DO PAINEL DE UPDATES -->
 <!-- https://github.com/marketplace/actions/snake-game-generator-from-github-contributions -->
-![Snake animation](https://github.com/MacMenez/MacMenez/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/MacMenez/MacMenez/blob/output/github-contribution-grid-snake.svg)-->
+<img src="https://raw.githubusercontent.com/MacMenez/MacMenez/output/snake.svg" alt="Snake animation" />
 
 <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid?version=v3.0.0 -->
 <picture>
-  <source
+  <!--<source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/MacMenez/MacMenez/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
+  />-->
+  
+  <!--<source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/MacMenez/MacMenez/output/github-contribution-grid-snake.svg"
-  />
-  <img
+  />-->
+  
+  <!--<img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/MacMenez/MacMenez/output/github-contribution-grid-snake.svg"
-  />
+  />-->
 </picture>
 
 
