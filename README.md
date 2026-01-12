@@ -28,7 +28,7 @@ https://github.com/marketplace/actions/generate-snake-game-from-github-contribut
 -->
 
 <!--**MacMenez/MacMenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<h1 align="center">Hello World! <img src="starwars_gif" width="50" /> May The Force Be With You.</h1>
+<h1 align="center">Hello World! <img src="starwars_gif.gif" width="50" /> May The Force Be With You.</h1>
 
 <p> My name is Davi and I'm a computer engineer's student, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
