@@ -12,6 +12,7 @@ Linguagens de programação | DOCUMENTAÇÃO: https://devicon.dev/
 
 Imagem
 GIF | DOCUMENTAÇÃO: https://picrew.me/ja/image_maker/338224
+GIF | DOCUMENTAÇÃO: https://slackmojis.com/
 LOFI | DOCUMENTAÇÃO: https://lofigirl.com/generator/
 
 REDES SOCIAIS + SISTEMAS | DOCUMENTAÇÃO: https://dev.to/envoy_/150-badges-for-github-pnk]
@@ -27,17 +28,16 @@ https://github.com/marketplace/actions/generate-snake-game-from-github-contribut
 -->
 
 <!--**MacMenez/MacMenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<h1 align="center">Hello World! May The Force Be With You.</h1>
+<h1 align="center">Hello World! <img src="starwars_gif" width="50" /> May The Force Be With You.</h1>
 
 <p> My name is Davi and I'm a computer engineer's student, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
-<img align="right" height="150" src="AvatarLoFi_v2.png"  />
+<img align="right" height="150" src="AvatarLoFi_v2.png"/>
 
 ### About Me  
 |🦾 Robotics | 🖥️ Computing | 🔭 Science | 🎮 Video Game | 💬 D&D and Nerd's Things | ⚡ Fun fact: I'm staing old
 
 ###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
