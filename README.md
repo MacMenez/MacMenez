@@ -1,45 +1,82 @@
+<!-- 
+GERADOR DE README.md | DOCUMENTAÇÃO: https://profile-readme-generator.com/pt-BR
+
+Aplicação via Markdown | DOCUMENTAÇÃO: https://github.com/anuraghazra/github-readme-stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MacMenez&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MacMenez&show_icons=true&theme=NOME-DO-TEMA)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MacMenez&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MacMenez&layout=compact&langs_count=7&theme=material-palenight))
+
+Linguagens de programação | DOCUMENTAÇÃO: https://devicon.dev/
+
+Imagem
+GIF | DOCUMENTAÇÃO: https://picrew.me/ja/image_maker/338224
+LOFI | DOCUMENTAÇÃO: https://lofigirl.com/generator/
+
+REDES SOCIAIS + SISTEMAS | DOCUMENTAÇÃO: https://dev.to/envoy_/150-badges-for-github-pnk]
+
+SISTEMAS OPERACIONAIS + AMBIENTES DE DESENVOLVIMENTO | DOCUMENTAÇÃO: https://shields.io/
+
+Linux Mint
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" target="_blank">
+
+ANIMAÇÃO DO PAINEL DE UPDATES | DOCUMENTAÇÃO: https://github.com/marketplace/actions/snake-game-generator-from-github-contributions
+
+https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid?version=v3.0.0
+-->
+
 <!--**MacMenez/MacMenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hello World! May The Force Be With You.</h1>
+
+<p> My name is Davi and I'm a computer engineer's student, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
+<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
+<img align="right" height="150" src="AvatarLoFi_v2.png"  />
+
+### About Me  
+|🦾 Robotics | 🖥️ Computing | 🔭 Science | 🎮 Video Game | 💬 D&D and Nerd's Things | ⚡ Fun fact: I'm staing old
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />-->
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <!-- Assembly -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
 </div>
 
 ###
 
 <div align="center">
+  <a href="https://linktr.ee/MacMenez" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="25" alt="linktree logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MacMenez&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=MacMenez&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!--<img src="https://github-profile-trophy.vercel.app?username=MacMenez&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />-->
 </div>
 
 ###
