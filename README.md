@@ -62,6 +62,12 @@ https://github.com/marketplace/actions/generate-snake-game-from-github-contribut
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
 </div>
 
 ###
